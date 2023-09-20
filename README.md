@@ -1,6 +1,8 @@
-### 안녕하세요. 김영재 입니다. 👋
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=100&text=ENJOY!&fontAlign=20&fontAlignY=40&color=gradient)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbugneet&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# 안녕하세요. 김영재 입니다. 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbugneet&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 <!--
 **bugneet/bugneet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
